@@ -12,8 +12,7 @@
 
 - [Resume EN-US](https://github.com/betomossmann/resume/blob/main/README.md)
 - [Resume PT-BR](https://github.com/betomossmann/resume/blob/main/README-br.md)
-<br />
-<br />
+
 
 ### Languages and Tools:
 
