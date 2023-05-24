@@ -1,4 +1,4 @@
-## Hello 👋 I'm <a href="https://instagram.com/gilbertomossmann" target="_blank">Beto Mossmann</a>!
+## Hello 👋 I'm <a href="https://instagram.com/gilbertomossmann" target="_blank">Beto</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://linkedin.com/in/gilbertomossmann/" target="_blank"><img align="left" alt="Beto M | LinkedIn" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
