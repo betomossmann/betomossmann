@@ -1,9 +1,9 @@
 ## Hello 👋 I'm <a href="https://instagram.com/gilbertomossmann" target="_blank">Beto</a>!
 (Use dark theme to find my socials ;)
 
-<a href="https://linkedin.com/in/gilbertomossmann/" target="_blank"><img align="left" alt="Beto M | LinkedIn" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/gilbertomossmann" target="_blank"><img align="left" alt="Beto M | Instagram" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://bdev.vercel.app/" target="_blank"><img align="left" alt="Beto M | WebSite" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
+<a href="https://linkedin.com/in/gilbertomossmann/"><img align="left" alt="Beto M | LinkedIn" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://instagram.com/gilbertomossmann"><img align="left" alt="Beto M | Instagram" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://bdev.vercel.app/"><img align="left" alt="Beto M | WebSite" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
 
 <br />
 <br />
