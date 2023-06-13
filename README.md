@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, Beto Here!</h1>
 <h3 align="center">A passionate Software developer, from Brasil!</h3>
-<h3 align="center">(Use dark theme to find my socials ;)</h3>
+<h5 align="center">(Use dark theme to find my socials ;)</h5>
 
 <p align="Center">
 <a align="center" href="https://linkedin.com/in/gilbertomossmann/"><img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> </a>
 <a align="center" href="https://instagram.com/gilbertomossmann"><img alt="Beto M | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /> </a>
 <a align="center" href="http://beto.dev.br/"><img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /> </a>
 </p>
-
-</br >
-
----
-
-</br >
 
 <h2 align="Center">Resume:</h2>
 
@@ -41,8 +35,6 @@
 <a> <img alt="babel" width="28" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" /> </a> 
 </p>
 
-</br>
-
 <h2 align="Center">Back-End:</h2>
 
 <p align="Center">
@@ -58,8 +50,6 @@
 <a> <img alt="postgresql" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> </a> 
 </p>
 
-</br>
-
 <h2 align="Center">Testing / Devops:</h2>
 
 <p align="Center">
@@ -72,8 +62,6 @@
 <a> <img alt="kubernetes" width="28" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> </a> 
 <a> <img alt="travisci" width="28" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" /> </a> 
 </p>
-
-<br />
 
 <h2 align="Center">Softwares:</h2>
 
