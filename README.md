@@ -2,17 +2,11 @@
 <h3 align="center">A passionate Software developer, from Brasil!</h3>
 <h3 align="center">(Use dark theme to find my socials ;)</h3>
 
-<<<<<<< HEAD
-<a href="https://linkedin.com/in/gilbertomossmann/"><img align="left" alt="Beto M | LinkedIn" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/gilbertomossmann"><img align="left" alt="Beto M | Instagram" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://beto.dev.br"><img align="left" alt="Beto M | WebSite" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
-=======
 <p align="Center">
 <a align="center" href="https://linkedin.com/in/gilbertomossmann/"><img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> </a>
 <a align="center" href="https://instagram.com/gilbertomossmann"><img alt="Beto M | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /> </a>
 <a align="center" href="http://beto.dev.br/"><img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /> </a>
 </p>
->>>>>>> d9ffeb3 (update skills)
 
 </br >
 
@@ -81,9 +75,6 @@
 
 <br />
 
-<<<<<<< HEAD
-![](https://komarev.com/ghpvc/?username=betomossmann&color=blue&style=plastic)
-=======
 <h2 align="Center">Softwares:</h2>
 
 <p align="Center">
@@ -118,4 +109,3 @@
 <p align="center">&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=betomossmann&show_icons=true&locale=en" alt="betomossmann" /> </a>
 </p>
->>>>>>> d9ffeb3 (update skills)
