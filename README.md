@@ -3,9 +3,11 @@
 <h5 align="center">(Use dark theme to find my socials ;)</h5>
 
 <p align="Center">
-<a align="center" href="https://linkedin.com/in/gilbertomossmann/"><img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> </a>
-<a align="center" href="https://instagram.com/gilbertomossmann"><img alt="Beto M | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /> </a>
-<a align="center" href="http://beto.dev.br/"><img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /> </a>
+
+<a href="https://linkedin.com/in/gilbertomossmann/"><img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://instagram.com/gilbertomossmann"><img alt="Beto M | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="http://beto.dev.br/"><img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
+
 </p>
 
 <h2 align="Center">Resume:</h2>
