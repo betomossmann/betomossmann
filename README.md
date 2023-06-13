@@ -91,9 +91,9 @@
 </br >
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=betomossmann&show_icons=true&locale=en&layout=compact" alt="betomossmann" /> </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=betomossmann&show_icons=true&locale=en&layout=compact" alt="betomossmann" height="99%" width="300" /> </a>
 </p>
 
 <p align="center">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=betomossmann&show_icons=true&locale=en" alt="betomossmann" /> </a>
+<img src="https://github-readme-stats.vercel.app/api?username=betomossmann&show_icons=true&locale=en" alt="betomossmann" height="99%" width="350" /> </a>
 </p>
