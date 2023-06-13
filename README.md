@@ -2,25 +2,22 @@
 <h3 align="center">A passionate Software developer, from Brasil!</h3>
 <h5 align="center">(Use dark theme to find my socials ;)</h5>
 
-<p align="Center">
-
-<a align="Center" href="https://linkedin.com/in/gilbertomossmann/"><img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> </a>
-<a align="Center" href="https://instagram.com/gilbertomossmann"><img alt="Beto M | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /> </a>
-<a align="Center" href="http://beto.dev.br/"><img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /> </a>
-
+<p align="center">
+<a href="https://linkedin.com/in/gilbertomossmann/"> <img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> </a>
+<a href="https://instagram.com/gilbertomossmann"> <img alt="Beto M | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /> </a>
+<a href="http://beto.dev.br/"> <img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /> </a>
 </p>
 
-<h2 align="Center">Resume:</h2>
+<h2 align="center">Resume:</h2>
 
 - [Resume EN-US](https://github.com/betomossmann/resume/blob/main/README.md)
 - [Resume PT-BR](https://github.com/betomossmann/resume/blob/main/README-br.md)
 
+<h1 align="center">Skills:</h1>
 
-<h1 align="Center">Skills:</h1>
+<h2 align="center">Front-End:</h2>
 
-<h2 align="Center">Front-End:</h2>
-
-<p align="Center">
+<p align="center">
 <a> <img alt="html5" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> </a>
 <a> <img alt="css3" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> </a> 
 <a> <img alt="REACT" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
@@ -39,9 +36,9 @@
 
 </br>
 
-<h2 align="Center">Back-End:</h2>
+<h2 align="center">Back-End:</h2>
 
-<p align="Center">
+<p align="center">
 <a> <img alt="NODEJS" width="28" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/> </a>
 <a> <img alt="GRAPHQL" width="28" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg"/> </a>
 <a> <img alt="nginx" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" /> </a> 
@@ -56,9 +53,9 @@
 
 </br>
 
-<h2 align="Center">Testing / Devops:</h2>
+<h2 align="center">Testing / Devops:</h2>
 
-<p align="Center">
+<p align="center">
 <a> <img alt="jest" width="28" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" /> </a> 
 <a> <img alt="cypress" width="28" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" /> </a> 
 <a> <img alt="mocha" width="28" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" /> </a> 
@@ -71,9 +68,9 @@
 
 <br />
 
-<h2 align="Center">Softwares:</h2>
+<h2 align="center">Softwares:</h2>
 
-<p align="Center">
+<p align="center">
 <a> <img alt="Linux" width="28" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" /> </a> 
 <a> <img alt="Visual Studio Code" width="28" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" /> </a> 
 <a> <img alt="sketch" width="28" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" /> </a> 
@@ -85,9 +82,9 @@
 
 </P>
 
-<h2 align="Center">Support:</h2>
+<h2 align="center">Support:</h2>
 
-<p align="Center">
+<p align="center">
 <a href="https://www.buymeacoffee.com/betomossmann"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="betomossmann" /> </a>
 <a href="https://ko-fi.com/betomossmann"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="168" alt="betomossmann" /> </a>
 </p>
