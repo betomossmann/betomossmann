@@ -1,20 +1,14 @@
 <h1 align="center">Hi 👋, Beto Here!</h1>
 <h3 align="center">A passionate Software developer, from Brasil!</h3>
-<h3 align="center">(Use dark theme to find my socials ;)</h3>
+<h5 align="center">(Use dark theme to find my socials ;)</h5>
 
 <p align="Center">
 
-<a href="https://linkedin.com/in/gilbertomossmann/"><img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/gilbertomossmann"><img alt="Beto M | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="http://beto.dev.br/"><img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
+<a align="Center" href="https://linkedin.com/in/gilbertomossmann/"><img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> </a>
+<a align="Center" href="https://instagram.com/gilbertomossmann"><img alt="Beto M | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /> </a>
+<a align="Center" href="http://beto.dev.br/"><img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /> </a>
 
 </p>
-
-</br >
-
----
-
-</br >
 
 <h2 align="Center">Resume:</h2>
 
@@ -105,9 +99,9 @@
 </br >
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=betomossmann&show_icons=true&locale=en&layout=compact" alt="betomossmann" /> </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=betomossmann&show_icons=true&locale=en&layout=compact" alt="betomossmann" height="99%" width="300" /> </a>
 </p>
 
 <p align="center">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=betomossmann&show_icons=true&locale=en" alt="betomossmann" /> </a>
+<img src="https://github-readme-stats.vercel.app/api?username=betomossmann&show_icons=true&locale=en" alt="betomossmann" height="99%" width="350" /> </a>
 </p>
