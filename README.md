@@ -88,17 +88,3 @@
 <a href="https://www.buymeacoffee.com/betomossmann"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="betomossmann" /> </a>
 <a href="https://ko-fi.com/betomossmann"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="168" alt="betomossmann" /> </a>
 </p>
-
-</br >
-
----
-
-</br >
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=betomossmann&show_icons=true&locale=en&layout=compact" alt="betomossmann" height="99%" width="300" /> </a>
-</p>
-
-<!-- <p align="center">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=betomossmann&show_icons=true&locale=en" alt="betomossmann" height="99%" width="350" /> </a>
-</p> -->
