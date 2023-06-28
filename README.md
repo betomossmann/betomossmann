@@ -8,10 +8,12 @@
 <a href="http://beto.dev.br/"> <img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /> </a>
 </p>
 
-<h2 align="center">Resume:</h2>
-
-- [Resume EN-US](https://github.com/betomossmann/resume/blob/main/README.md)
-- [Resume PT-BR](https://github.com/betomossmann/resume/blob/main/README-br.md)
+<p align="center">
+  <samp>
+    <a href="https://github.com/betomossmann/resume/blob/main/README.md">Resume EN-US</a> .
+    <a href="https://github.com/betomossmann/resume/blob/main/README-br.md">Resume PT-BR</a> .
+  </samp>
+</p>
 
 <h1 align="center">Skills:</h1>
 
