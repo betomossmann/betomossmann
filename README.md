@@ -36,8 +36,6 @@
   <a> <img alt="babel" width="23" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" /> </a> 
 </p>
 
-</br>
-
 <h3 align="center">Back-End:</h3>
 
 <p align="center">
@@ -53,8 +51,6 @@
   <a> <img alt="postgresql" width="23" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> </a> 
 </p>
 
-</br>
-
 <h3 align="center">Testing / Devops:</h3>
 
 <p align="center">
@@ -68,8 +64,6 @@
   <a> <img alt="travisci" width="23" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" /> </a> 
   <a> <img alt="GITHUB" width="23" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /> </a>
 </p>
-
-<br />
 
 <h3 align="center">Softwares:</h3>
 
