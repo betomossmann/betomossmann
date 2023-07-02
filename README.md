@@ -10,8 +10,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://github.com/betomossmann/resume/blob/main/README.md">Resume EN-US</a> .
-    <a href="https://github.com/betomossmann/resume/blob/main/README-br.md">Resume PT-BR</a> .
+    <a href="https://github.com/betomossmann/resume/blob/main/README.md">Resume EN-US</a> |
+    <a href="https://github.com/betomossmann/resume/blob/main/README-br.md">Resume PT-BR</a>
   </samp>
 </p>
 
