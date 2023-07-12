@@ -49,7 +49,7 @@
 
 <h3 align="center">Testing / Devops:</h3>
 
-< align="center">
+<p align="center">
   <a> <img alt="jest" width="23" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" /> </a> 
   <a> <img alt="mocha" width="23" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" /> </a> 
   <a> <img alt="docker" width="23" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /> </a> 
