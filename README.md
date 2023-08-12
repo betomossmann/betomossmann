@@ -45,10 +45,6 @@
         <p><small>Webpack</small></p>
     </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" />
-        <p><small>Babel</small></p>
-    </td>
-    <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
         <p><small>Tailwind</small></p>
     </td>
@@ -102,10 +98,6 @@
     <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
         <p><small>Kubernetes</small></p>
-    </td>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-        <p><small>Firebase</small></p>
     </td>
     <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
