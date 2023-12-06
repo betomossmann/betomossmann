@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, Beto Here!</h2>
+<h1 align="center">Hi 👋, Beto Here!</h1>
 
 ###
 
