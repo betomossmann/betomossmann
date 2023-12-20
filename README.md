@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, Beto Here!</h1>
+<h1 align="center">Hi, Beto Here! 👋</h1>
 
 ###
 
 <br clear="both">
 
-<p align="center">A passionate Software developer, from Brasil!</p>
+<h3 align="center">A passionate Software developer, from Brasil!</h3>
+<h5 align="center">(Use dark theme to find my socials ;)</h5>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://linkedin.com/in/gilbertomossmann/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/gilbertomossmann/" target="_blank"> 
+    <img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
   </a>
-  <a href="https://instagram.com/gilbertomossmann" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  <a href="https://instagram.com/gilbertomossmann" target="_blank"> 
+    <img alt="Beto M | Instagram" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+  </a>
+  <a href="http://beto.dev.br/" target="_blank"> 
+    <img alt="Beto M | WebSite" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
   </a>
 </div>
 
