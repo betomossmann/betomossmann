@@ -2,13 +2,13 @@
 
 ###
 
-<br clear="both">
+<br clear="both" />
 <h3 align="center">A passionate Software developer, from Brasil!</h3>
 <h5 align="center">(Use dark theme to find my socials ;)</h5>
 
 ###
 
-<br clear="both">
+<br clear="both" />
 <div align="center">
   <a href="https://linkedin.com/in/gilbertomossmann/" target="_blank">
     <img alt="Beto M | LinkedIn" width="28" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
