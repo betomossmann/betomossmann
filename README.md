@@ -6,7 +6,10 @@
 
 <br clear="both">
 
-<p align="left">🌍 I'm based in RS, Brasil<br>🖥️ See my portfolio at [beto.com.br](https://beto.dev.br)<br>🚀 I'm currently working on BDev - Creative House<br>🤝 Open Source Enthusiast</p>
+- 🌍 I'm based in RS, Brasil
+- 🖥️ See my portfolio at [beto.com.br](https://beto.dev.br)
+- 🚀 I'm currently working on BDev - Creative House
+- 🤝 Open Source Enthusiast</p>
 
 <br clear="both">
 
