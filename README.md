@@ -1,10 +1,6 @@
-<br clear="both">
+### Hi there 👋 I'm Beto
 
-<h2 align="center">Hi there👋 <br>I'm Beto</h2>
-
-<h3 align="left">Software Engineer</h3>
-
-<br clear="both">
+### Software Engineer
 
 - 🌍 I'm based in RS, Brasil
 - 🖥️ See my portfolio at [beto.com.br](https://beto.dev.br)
