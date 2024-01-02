@@ -49,8 +49,6 @@
   <img height="15" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" height="35" alt="Webpack" />
   <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" height="35" alt="Babel" />
-  <img height="15" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="35" alt="Vite" />
   <img height="15" />
 </div>
