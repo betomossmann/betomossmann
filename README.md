@@ -3,7 +3,7 @@
 ## Software Engineer
 
 - 🌍 I'm based in RS, Brasil
-- 🖥️ See my portfolio at [beto.dev.br](http://beto.dev.br/)
+- 🖥️ See my portfolio at [http://beto.dev.br](http://beto.dev.br/)
 - 🧠 I'm learning Nuxt
 - ⚡ Open Source Enthusiast
 
