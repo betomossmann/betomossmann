@@ -1,10 +1,6 @@
 <h2 align="center">Hi there 👋 I'm Beto</h2>
 
-<br clear="both">
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<br clear="both">
 
 <h2 align="left">Software Engineer</h2>
 
