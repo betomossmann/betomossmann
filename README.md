@@ -1,6 +1,4 @@
-<h2 align="center">Hi there 👋 I'm Beto</h2>
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<h1 align="center">Hi there 👋 I'm Beto</h1>
 
 <h2 align="left">Software Engineer</h2>
 
@@ -14,7 +12,7 @@
 <br clear="both">
 
 <a href="https://linkedin.com/in/gilbertomossmann/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="Linkedin logo"  />
 </a>
 
 <br clear="both">
