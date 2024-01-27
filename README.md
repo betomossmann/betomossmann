@@ -1,11 +1,21 @@
-## Hi there 👋 I'm Beto
+<h2 align="center">Hi there 👋 I'm Beto</h2>
 
-## Software Engineer
+<br clear="both">
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<br clear="both">
+
+<h2 align="left">Software Engineer</h2>
+
+<br clear="both">
 
 - 🌍 I'm based in RS, Brasil
 - 🖥️ See my portfolio at [http://beto.dev.br](http://beto.dev.br/)
 - 🧠 I'm learning Nuxt
 - ⚡ Open Source Enthusiast
+
+<br clear="both">
 
 <a href="https://linkedin.com/in/gilbertomossmann/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
