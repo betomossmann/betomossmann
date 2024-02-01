@@ -1,76 +1,77 @@
-<h1 align="center">Hi there 👋 I'm Beto</h1>
+# Hi there, I'm Beto! 👋
 
-<h2 align="left">Software Engineer</h2>
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
 
-<br clear="both">
+```javascript
+const me = {
+  handle: '@betomossmann',
+  tagline: 'Software Engineer, DevHead for creative and challenging projects!'
+}
+```
 
-- 🌍 I'm based in RS, Brasil
-- 🖥️ See my portfolio at [http://beto.dev.br](http://beto.dev.br/)
-- 🧠 I'm learning Nuxt
-- ⚡ Open Source Enthusiast
+## Links 🔗
 
-<br clear="both">
+Find me online:
 
-<a href="https://linkedin.com/in/gilbertomossmann/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="Linkedin logo"  />
-</a>
+<a href="https://beto.dev.br"><img height="36" width="64" src="assets/http.svg"></a>
+<a href="https://linkedin.com/in/gilbertomossmann/"><img height="36" width="64" src="assets/linkedin.svg"></a>
+<a href="https://github.com/betomossmann"><img height="36" width="64" src="assets/github.svg"></a>
+<a href="https://gitlab.com/betomossmann"><img height="36" width="64" src="assets/gitlab.svg"></a>
 
-<br clear="both">
+## TechStack 💾
 
-<h3 align="center">Tech Stack</h3>
+**Languages**
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="35" alt="JavaScript" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="35" alt="TypeScript" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="35" alt="React" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" height="35" alt="NextJs" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" height="35" alt="Vue" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" height="35" alt="Nuxtjs" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" height="35" alt="Sass" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="35" alt="TailwindCSS" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" height="35" alt="Chakra UI" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" height="35" alt="Material UI" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="35" alt="Redux" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" height="35" alt="Webpack" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="35" alt="Vite" />
-  <img height="15" />
+<div>
+    <img height="36" width="64" src="assets/javascript.svg">
+    <img height="36" width="64" src="assets/typescript.svg">
 </div>
 
-<br clear="both">
+**Frameworks, tools and other stuff**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="34" alt="NodeJS" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="34" alt="Express" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" height="34" alt="Fast API" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" height="34" alt="GraphQL" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" height="34" alt="NestJS" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="34" alt="MongoDB" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="34" alt="PostgreSQL" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" height="34" alt="Supabase" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" height="34" alt="Amazon Web Services" />
-  <img height="15" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" height="34" alt="Docker" />
-  <img height="15" />
+<div>
+    <img height="36" width="45" src="assets/astro.svg">
+    <img height="36" width="45" src="assets/next.svg">
+    <img height="36" width="45" src="assets/react.svg">
+    <img height="36" width="45" src="assets/vuejs-colored.svg">
+    <img height="36" width="45" src="assets/nuxtjs-colored.svg">
+    <img height="36" width="45" src="assets/vite-colored.svg">
+    <img height="36" width="45" src="assets/sass-colored.svg">
+    <img height="36" width="45" src="assets/tailwindcss.svg">
+    <img height="36" width="45" src="assets/nodejs.svg">
+    <img height="36" width="45" src="assets/nestjs-colored.svg">
+    <img height="36" width="45" src="assets/fastify.svg">
+    <img height="36" width="45" src="assets/express-colored.svg">
+</div>
+<br/>
+<div>
+    <img height="36" width="45" src="assets/pnpm.svg">
+    <img height="36" width="45" src="assets/prettier.svg">
+    <img height="36" width="45" src="assets/eslint.svg">
+    <img height="36" width="45" src="assets/docker.svg">
+    <img height="36" width="45" src="assets/github.svg">
+    <img height="36" width="45" src="assets/gitlab.svg">
+    <img height="36" width="45" src="assets/bitbucket.svg">
+    <img height="36" width="45" src="assets/vitest.png">
+    <img height="36" width="45" src="assets/cypress.svg">
+    <img height="36" width="45" src="assets/jest.svg">
+    <img height="36" width="45" src="assets/supabase-colored.svg">
+    <img height="36" width="45" src="assets/aws.svg">
+    <img height="36" width="45" src="assets/mongodb-colored.svg">
+    <img height="36" width="45" src="assets/postgresql-colored.svg">
+</div>
+<br/>
+<div>
+    <img height="36" width="45" src="assets/openapi.svg">
+    <img height="36" width="45" src="assets/graphql.svg">
+    <img height="36" width="45" src="assets/git.svg">
+    <img height="36" width="45" src="assets/linux-brands.svg">
+    <img height="36" width="45" src="assets/vscode.svg">
+    <img height="36" width="45" src="assets/yaml.svg">
+    <img height="36" width="45" src="assets/json.svg">
+    <img height="36" width="45" src="assets/css.svg">
+    <img height="36" width="45" src="assets/html.svg">
+    <img height="36" width="45" src="assets/svg.svg">
+    <img height="36" width="45" src="assets/markdown.svg">
+    <img height="36" width="45" src="assets/mdx.svg">
 </div>
