@@ -1,7 +1,5 @@
 # Hi there, I'm Beto! 👋
 
-[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
-
 ```javascript
 const me = {
   handle: '@betomossmann',
