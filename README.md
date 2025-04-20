@@ -1,11 +1,25 @@
-# Hi there, I'm Beto! 👋
+<!-- README.md -->
 
-```javascript
-const me = {
+<h1 align="center">Olá, eu sou o Beto! 👋</h1>
+<h1 align="center">Hi, I'm Beto! 👋</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FullStack%20Engineer-TypeScript-blue?style=for-the-badge&logo=typescript" alt="Full Stack TypeScript Engineer"/>
+  <img src="https://img.shields.io/badge/DevHead-Creative%20Projects-purple?style=for-the-badge" alt="Creative DevHead"/>
+</p>
+
+---
+
+## 🇧🇷 Sobre mim
+
+```ts
+const beto = {
+  nome: 'Gilberto Mossmann',
   handle: '@betomossmann',
-  tagline: 'Software Engineer, DevHead for creative and challenging projects!'
+  cargo: 'Engenheiro de Software',
+  foco: 'Projetos criativos, escaláveis e desafiadores!',
 }
-```
+
 
 ## Links 🔗
 
