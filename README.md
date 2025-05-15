@@ -26,10 +26,10 @@ const beto = {
 
 **Find me online:**
 
-<a href="https://beto.dev.br"><img height="36" width="64" src="assets/http.svg"></a>
-<a href="https://linkedin.com/in/gilbertomossmann/"><img height="36" width="64" src="assets/linkedin.svg"></a>
-<a href="https://github.com/betomossmann"><img height="36" width="64" src="assets/github.svg"></a>
-<a href="https://gitlab.com/betomossmann"><img height="36" width="64" src="assets/gitlab.svg"></a>
+<a href="https://beto.dev.br" target="_blank" rel="noopener noreferrer"><img height="36" width="64" src="assets/http.svg"></a>
+<a href="https://linkedin.com/in/gilbertomossmann/" target="_blank" rel="noopener noreferrer"><img height="36" width="64" src="assets/linkedin.svg"></a>
+<a href="https://github.com/betomossmann" target="_blank" rel="noopener noreferrer"><img height="36" width="64" src="assets/github.svg"></a>
+<a href="https://gitlab.com/betomossmann" target="_blank" rel="noopener noreferrer"><img height="36" width="64" src="assets/gitlab.svg"></a>
 
 ## TechStack 💾
 
